@@ -8,5 +8,3 @@ dataset
 - Laurids Radtke
 - Giorgia Iacobellis
 - Thiago Costa
-
-> fuk it we ball
